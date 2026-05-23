@@ -108,4 +108,4 @@ When using `PUT`, `PATCH`, or `DELETE`, apiffuf prints a caution warning because
 
 ## License
 
-MIT
+AGPLv3
