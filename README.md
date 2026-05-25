@@ -2,6 +2,8 @@
 
 API URL fuzzer that cross-joins hosts and paths into normalized URLs, probes them over HTTP, and reports responding endpoints.
 
+<a href="https://www.producthunt.com/products/apiffuf-by-jsmon?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-apiffuf-by-jsmon" target="_blank" rel="noopener noreferrer"><img alt="Apiffuf by Jsmon - API URL fuzzer for API hackers | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1154673&amp;theme=light&amp;t=1779692501333"></a>
+
 ## Installation
 
 ### Direct install
